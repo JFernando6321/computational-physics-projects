@@ -1,0 +1,156 @@
+[33mcommit 582390b7b12061be93cdc278b18a3e8bdff1c650[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: JFernando6321 <joulefvicente@gmail.com>
+Date:   Fri Dec 6 18:08:28 2024 -0600
+
+    Organizar simulaciones en carpetas
+
+Modelo de ising
+simulaciones/Euler's_method.ipynb
+"simulaciones/euler/M\303\251todo_de_euler.ipynb"
+simulaciones/ising/Modelo_de_ising.ipynb
+simulaciones/mercurio/perihelio_de_mercurio.ipynb
+
+[33mcommit e7b56738bd64fcc77a06b2af9597678bbf649770[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: JFernando6321 <joulefvicente@gmail.com>
+Date:   Fri Dec 6 17:33:20 2024 -0600
+
+    Eliminar archivo o directorio 'modelo de ising'
+
+modelo de ising/a ver
+
+[33mcommit 43392e32471bff2bbc930d73c7b2fd41887bd2e8[m
+Author: Julio Vicente <129684136+JFernando6321@users.noreply.github.com>
+Date:   Tue Dec 3 17:09:31 2024 -0600
+
+    Create a ver
+
+modelo de ising/a ver
+
+[33mcommit 5a2ecbe56e0554ce2bb77c9afc79034c62718141[m
+Author: Julio Vicente <129684136+JFernando6321@users.noreply.github.com>
+Date:   Tue Dec 3 09:01:39 2024 -0600
+
+    Create Modelo de ising
+
+Modelo de ising
+
+[33mcommit 0ba7a427f8390fd6bb32caf6a2433b7f4c763d2c[m
+Author: Julio Vicente <129684136+JFernando6321@users.noreply.github.com>
+Date:   Tue Dec 3 08:59:00 2024 -0600
+
+    Update README.md
+
+README.md
+
+[33mcommit 8b11cd5bb11d243f74b76225ca992d842aa77eca[m
+Author: Julio Vicente <129684136+JFernando6321@users.noreply.github.com>
+Date:   Thu Nov 28 21:38:09 2024 -0600
+
+    Se creó con Colab
+
+Modelo_de_ising.ipynb
+
+[33mcommit f2e29fcf6e6a2b7d84632fa8799a6c0a63bb5af7[m
+Author: Julio Vicente <129684136+JFernando6321@users.noreply.github.com>
+Date:   Sat Oct 26 21:09:01 2024 -0600
+
+    Add files via upload
+
+orbita_mercurio.gif
+
+[33mcommit dd47d884126b80311d441db8d51a315c57ea5ccc[m
+Author: Julio Vicente <129684136+JFernando6321@users.noreply.github.com>
+Date:   Sat Oct 26 21:06:23 2024 -0600
+
+    Creado con Colab
+
+perihelio_de_mercurio.ipynb
+
+[33mcommit f531ef9faaca348bd2247d66e2e979dbf18a0f7e[m
+Author: Julio Vicente <129684136+JFernando6321@users.noreply.github.com>
+Date:   Sat Oct 26 20:09:07 2024 -0600
+
+    Creado con Colab
+
+perihelio_de_mercurio.ipynb
+
+[33mcommit 99290c2bbf3757ce22fcf6e6837759365bf231a9[m
+Author: Julio Vicente <129684136+JFernando6321@users.noreply.github.com>
+Date:   Sat Oct 19 21:09:27 2024 -0600
+
+    Creado con Colab
+
+perihelio_de_mercurio.ipynb
+
+[33mcommit a4dff355c7e55892c7937462560946dd318579ac[m
+Author: Julio Vicente <129684136+JFernando6321@users.noreply.github.com>
+Date:   Fri Sep 6 09:45:48 2024 -0600
+
+    Creado con Colab
+
+"M\303\251todo_de_euler.ipynb"
+
+[33mcommit 88d84fb7692680ab94ba6783bc06cf8c696f1147[m
+Author: Julio Vicente <129684136+JFernando6321@users.noreply.github.com>
+Date:   Fri Sep 6 09:41:39 2024 -0600
+
+    Creado con Colab
+
+"M\303\251todo_de_euler.ipynb"
+
+[33mcommit 96a34d1b3c916bf82d42c3b541d2bf48fa942750[m
+Author: Julio Vicente <129684136+JFernando6321@users.noreply.github.com>
+Date:   Wed Sep 4 23:16:11 2024 -0600
+
+    Creado con Colab
+
+"M\303\251todo_de_euler.ipynb"
+
+[33mcommit 06fa39a57b00e56b6d365b924c982a0feb78a861[m
+Author: Julio Vicente <129684136+JFernando6321@users.noreply.github.com>
+Date:   Thu Aug 15 11:04:00 2024 -0600
+
+    Update README.md
+
+README.md
+
+[33mcommit d2263b49bb15bcf30b0df8a9321ff10f3a36b04c[m
+Author: Julio Vicente <129684136+JFernando6321@users.noreply.github.com>
+Date:   Thu Aug 15 11:01:03 2024 -0600
+
+    Se creó con Colab
+
+Euler's_method.ipynb
+
+[33mcommit f894f180a7f58ab9ce096a2452f885ca653622b8[m
+Author: Julio Vicente <129684136+JFernando6321@users.noreply.github.com>
+Date:   Tue Aug 13 21:59:42 2024 -0600
+
+    Se creó con Colab
+
+Euler's_method.ipynb
+
+[33mcommit dce7245c0d08e9f7cbc91bf705ec8588d76a8ca5[m
+Author: Julio Vicente <129684136+JFernando6321@users.noreply.github.com>
+Date:   Tue Aug 13 21:46:00 2024 -0600
+
+    Se creó con Colab
+
+Euler's_method.ipynb
+
+[33mcommit 64ddedeec7ae47a2ce014b8d93fd6d9b84e086eb[m
+Author: Julio Vicente <129684136+JFernando6321@users.noreply.github.com>
+Date:   Mon Aug 12 10:10:46 2024 -0600
+
+    Se creó con Colab
+
+Euler's_method.ipynb
+
+[33mcommit 818da3d814ab17c7fab024a59b106d84cd3102a5[m
+Author: Julio Vicente <129684136+JFernando6321@users.noreply.github.com>
+Date:   Fri Aug 9 22:31:02 2024 -0600
+
+    Initial commit
+
+LICENSE
+README.md
